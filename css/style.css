@@ -26,6 +26,10 @@
 /* termos */
 @import "./termos/termos.css";
 
+/* bicicleta */
+@import "./bicicleta/bicicleta.css";
+@import "./bicicleta/seguro.css";
+
 
 
 
